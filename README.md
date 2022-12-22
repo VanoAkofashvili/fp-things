@@ -1,3 +1,3 @@
 # fp-things
 
-[https://sookocheff.com/post/fp/eta-conversion/](https://sookocheff.com/post/fp/eta-conversion/)
+[Eta Reduction - Kevin Sookocheff](https://sookocheff.com/post/fp/eta-conversion/)
